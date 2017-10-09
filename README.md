@@ -147,6 +147,10 @@ The git repo also provides a very basic systemctl service
         # adjust the path to your perl script then
         sudo make install
 
+# Continuous Integration
+
+Travis CI status: [![Build Status](https://travis-ci.org/atoomic/Amazon-Dash-Button.svg?branch=master)](https://travis-ci.org/atoomic/Amazon-Dash-Button)
+
 # CONTRIBUTE
 
 You can contribute to this project on github [https://github.com/atoomic/Amazon-Dash-Button](https://github.com/atoomic/Amazon-Dash-Button)
